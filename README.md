@@ -7,7 +7,13 @@
 ---
 ## Overview
 
-This repository provides an implementation of modeling EEG signals using polynomial regression in R. The code and analysis is done using R and the detailed interpretation of the results is presented in an R Markdown file.
+This repository provides an implementation of modeling EEG signals using polynomial regression. The code and analysis is done using R and the detailed interpretation of the results is presented in an R Markdown file.
+
+To view the HTML version of the detailed report, click below. 
+
+[HTML version of the modeling of EEG signals using polynomial regression](https://rpubs.com/mala101/eegmodeling)
+
+
 
 ## Introduction to EEG signals?
 
