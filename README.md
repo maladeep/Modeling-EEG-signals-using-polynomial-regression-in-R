@@ -4,9 +4,11 @@
 ![GitHub](https://img.shields.io/github/license/maladeep/Modeling-EEG-signals-using-polynomial-regression-in-R) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/maladeep/Modeling-EEG-signals-using-polynomial-regression-in-R)
 
-
-
 ---
+## Overview
+
+This repository provides an implementation of modeling EEG signals using polynomial regression in R. The code and analysis is done using R and the detailed interpretation of the results is presented in an R Markdown file.
+
 ## Introduction to EEG signals?
 
 <a href='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F56530999e4b0991ab31b67b1%2Ft%2F57485e378a65e22d87e5a155%2F1464360526430%2F&f=1&nofb=1&ipt=43a80badae603840e97e1f550187a8e3f13333fb7a3db115ff3c0c356233a826&ipo=images'><img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F56530999e4b0991ab31b67b1%2Ft%2F57485e378a65e22d87e5a155%2F1464360526430%2F&f=1&nofb=1&ipt=43a80badae603840e97e1f550187a8e3f13333fb7a3db115ff3c0c356233a826&ipo=images' align="right" height="12.5" /></a>
