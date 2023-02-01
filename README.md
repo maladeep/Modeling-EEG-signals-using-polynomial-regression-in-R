@@ -1,23 +1,25 @@
 # Modeling EEG signals using polynomial regression
 
 ---
-![GitHub](https://img.shields.io/github/license/maladeep/Modeling-EEG-signals-using-polynomial-regression-in-R) 
+![R Version](https://img.shields.io/badge/R%20version-4.2.2-blue)
+![RPubs](https://img.shields.io/badge/RPubs-Enabled-green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/maladeep/Modeling-EEG-signals-using-polynomial-regression-in-R)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/maladeep/Modeling-EEG-signals-using-polynomial-regression-in-R)
+![GitHub](https://img.shields.io/github/license/maladeep/Modeling-EEG-signals-using-polynomial-regression-in-R) 
 
 ---
 ## Overview
 
 This repository provides an implementation of modeling EEG signals using polynomial regression. The code and analysis is done using R and the detailed interpretation of the results is presented in an R Markdown file.
 
-To view the HTML version of the detailed report, click below. 
+To view the HTML version of the detailed report, click below.
 
-[HTML version of the modeling of EEG signals using polynomial regression](https://rpubs.com/mala101/eegmodeling)
-
+[HTML version of the modeling of EEG signals using polynomial regression in RPubs](https://rpubs.com/mala101/eegmodeling)
 
 
 ## Introduction to EEG signals?
 
-<a href='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F56530999e4b0991ab31b67b1%2Ft%2F57485e378a65e22d87e5a155%2F1464360526430%2F&f=1&nofb=1&ipt=43a80badae603840e97e1f550187a8e3f13333fb7a3db115ff3c0c356233a826&ipo=images'><img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F56530999e4b0991ab31b67b1%2Ft%2F57485e378a65e22d87e5a155%2F1464360526430%2F&f=1&nofb=1&ipt=43a80badae603840e97e1f550187a8e3f13333fb7a3db115ff3c0c356233a826&ipo=images' align="right" height="12.5" /></a>
+<a href='https://library.neura.edu.au/schizophrenia/physical-features/functional-changes/electrophysiology/electroencephalography/'><img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F56530999e4b0991ab31b67b1%2Ft%2F57485e378a65e22d87e5a155%2F1464360526430%2F&f=1&nofb=1&ipt=43a80badae603840e97e1f550187a8e3f13333fb7a3db115ff3c0c356233a826&ipo=images' title='Image from NeuRA' align="right" height="121.5" /></a>
 
 EEG stands for Electroencephalogram which are electrical signals that measured the electrical activity of the brain (St et al., 2016). 
 To get the EEG result, electrodes consisting of small metal discs with thin wires are pasted onto scalp. The electrodes detect tiny electrical charges that result from the activity of your brain cells and thus obtained charges are amplified and appear as a graph on a computer screen, or as a recording that may be printed out on paper. 
@@ -79,6 +81,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
-
+---
+> To view the citation mentioned in this file, please refer to the accompanying HTML version of the file.
