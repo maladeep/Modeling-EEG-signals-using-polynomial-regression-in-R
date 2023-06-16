@@ -16,6 +16,7 @@ To view the HTML version of the detailed report, click below.
 
 [HTML version of the modeling of EEG signals using polynomial regression in RPubs](https://rpubs.com/mala101/eegmodeling)
 
+[Read the Blog at Towards Data Science, Medium](https://towardsdatascience.com/modeling-eeg-signals-using-polynomial-regression-in-r-bd1b0da08251)
 
 ## Introduction to EEG signals?
 
